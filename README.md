@@ -1,4 +1,4 @@
 analytics
 =========
 
-Learning data analytics techniques
+Learning data analytics techniques using R
