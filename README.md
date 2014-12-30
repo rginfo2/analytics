@@ -1,4 +1,4 @@
 analytics
 =========
 
-Learning data analytics
+Learning data analytics techniques
